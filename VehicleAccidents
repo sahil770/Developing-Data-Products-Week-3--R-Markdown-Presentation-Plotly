@@ -85,4 +85,5 @@
           layout(
             xaxis = list(title = "date"),
             yaxis = list(title = "number of accidents
+            )
 
